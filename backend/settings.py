@@ -44,7 +44,7 @@ class _UiSettings(BaseSettings):
     title: str = "Nick - Swampfox Support Engineer"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
+    chat_title: str = "Ask me Swampfox Product questions."
     chat_description: str = "Nick is Swampfox Support Engineer and is configured to answer your questions"
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
